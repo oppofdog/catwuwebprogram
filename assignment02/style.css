@@ -1,16 +1,8 @@
 body {
-    background-color: rgb(240, 132, 168);
-    margin-top: 0px;
+    background-color: palevioletred;
+    margin-top: 20px;
     font-family: 'Times New Roman', Times, serif;
     line-height: 25px;
-}
-
-#banner {
-    background-image: url(file:///Users/catwu/Desktop/catwuwebprogram/assignment02/color-blocks-1095089_1280.png);
-    background-size: cover;
-    background-position: center;
-    height: 700px;
-    width: 100%;
 }
 
 .container {
@@ -18,21 +10,11 @@ body {
     margin-right: 230px;
 }
 
-.mono {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-}
-
-.italic {
-    font-style: italic;
-}
-
 h1 {
     text-align: center;
-    line-height: 70px;
-    color: rgb(0, 0, 0);
+    line-height: 130px;
+    color: cornsilk;
     font-size: 150px;
-    letter-spacing: 1px;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -41,12 +23,12 @@ h3 {
     text-align: center;
     text-transform: uppercase;
     font-size: x-large;
-    letter-spacing: 2px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 b3 {
     text-align: center;
+    font-style: italic;
     color: cornsilk;
 }
 
@@ -61,3 +43,8 @@ p {
 em {
     font-style: italic;
 }
+
+
+/* div {
+    margin-left: 3in
+} */
