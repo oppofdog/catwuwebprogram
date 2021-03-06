@@ -1,0 +1,48 @@
+body {
+    background-color: palevioletred;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px
+}
+
+.container {
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 130px;
+    color: cornsilk;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: cornsilk;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+b3 {
+    text-align: center;
+    font-style: italic;
+    color: cornsilk;
+}
+
+b2 {
+    text-align: center;
+}
+
+p {
+    font-size: small;
+}
+
+em {
+    font-style: italic;
+}
+
+
+/* div {
+    margin-left: 3in
+} */
